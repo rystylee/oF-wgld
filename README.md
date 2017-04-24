@@ -1,3 +1,3 @@
 # oF-wgld
-The project that translate wgld.org's code into openFrameworks
-https://wgld.org/
+The project that translate wgld.org's code (https://wgld.org/) into openFrameworks
+
